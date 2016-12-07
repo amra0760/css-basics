@@ -30,3 +30,8 @@ h1, h2 {
     text-align: center;
     color: #2884C3;
 }
+
+code {
+    color :#CE234C;
+    background-color: lightgray;
+}
