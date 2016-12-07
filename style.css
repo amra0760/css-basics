@@ -46,3 +46,6 @@ code {
     background: lightgray;
 }
 
+a:link{
+    color:green;
+}
