@@ -23,13 +23,10 @@ hr {
 
 h1 {
     font-size: 72px;
-    font-family: Oswald, Helvetica Neue;
-    text-align: center;
-    color: #2884c3;
 }
 
-h2 {
-    font-family: Oswald, Helvetica Neue;
+h1, h2 {
+    font-family: "Helvetica Neue", "Oswald";
     text-align: center;
     color: #2884C3;
 }
